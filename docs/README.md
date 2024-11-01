@@ -1,7 +1,7 @@
 ---
 home: true
 title: 首页
-heroImage: public/images/logo.png
+heroImage: https://jsd.cdn.zzko.cn/gh/liugezhou/picx-images-hosting@master/logo.webp
 actions:
   - text: 毕设流程 
     link: /started.html

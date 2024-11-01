@@ -9,7 +9,7 @@ export default defineUserConfig({
   title: '优秀毕设精选',
   description: '这里汇聚了众多优秀毕设项目，为你提供灵感和参考，助你打造更具创意的毕设作品',
   theme: defaultTheme({
-    logo: 'public/images/logo.png',
+    logo: 'https://jsd.cdn.zzko.cn/gh/liugezhou/picx-images-hosting@master/logo.webp',
 
     navbar: [
       '/',
